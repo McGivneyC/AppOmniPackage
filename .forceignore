@@ -25,7 +25,7 @@ node_modules/
 # Managed package Visualforce Components are wholly protected and not versionable
 **/components/*__*.*
 # Managed package Custom Metadata are wholly protected and not versionable
-**/customMetadata/*__*.*
+# **/customMetadata/*__*.*
 # Managed package Custom Permissions are wholly protected and not versionable
 **/customPermissions/*__*.*
 # Managed package Flexipages are wholly protected and not versionable
