@@ -36,7 +36,7 @@ node_modules/
 **/permissionsets/*__*.*
 # additional metadata types
 **/flowDefinitions/**
-**/staticresources/**
+# **/staticresources/**
 **/documents/**
 #**/installedPackages/**
 #**/dashboards/**
