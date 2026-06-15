@@ -19,6 +19,7 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "66.0",
   "packageAliases": {
-    "AppOmni_QTE_Package_Extension": "0HoDm0000008OJIKA2"
+    "AppOmni_QTE_Package_Extension": "0HoDm0000008OJIKA2",
+    "AppOmni_QTE_Package_Extension@1.0.0-0-main": "04tDm000000cZwaIAE"
   }
 }
